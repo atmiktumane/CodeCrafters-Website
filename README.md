@@ -14,5 +14,15 @@ This repository contains the source code for a responsive website created using 
 * Bootstrap 5: Front-end framework for responsive design and components.
 
 
+### Following are the Sample Screenshots of the Website :
+
+<img width="1224" alt="Screenshot 2024-04-02 at 5 05 13 PM" src="https://github.com/atmiktumane/CodeCrafters-Website/assets/94425889/043017f1-b19d-41b4-8a98-e3947f8a6b16">
+<br><br>
+
+<img width="469" alt="Screenshot 2024-04-02 at 5 04 31 PM" src="https://github.com/atmiktumane/CodeCrafters-Website/assets/94425889/0d4f10eb-c3fb-4655-9b7d-e310928f2544"> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="467" alt="Screenshot 2024-04-02 at 5 04 52 PM" src="https://github.com/atmiktumane/CodeCrafters-Website/assets/94425889/20239bb5-992f-4ea9-95ba-90d58ebbe5bc">
+
+
+
+
 ### Contributing
 Contributions are welcome! If you'd like to improve the website or add new features, feel free to fork the repository and submit a pull request.
